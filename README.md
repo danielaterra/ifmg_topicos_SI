@@ -1,2 +1,2 @@
 # ifmg_topicos_SI
-Codes for the curse  'Topicos  em Algoritmos' , 2025/1
+Codes for the 'Topics in Algorithms' Course - 2025/1
